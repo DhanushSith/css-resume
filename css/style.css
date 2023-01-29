@@ -1,0 +1,133 @@
+
+   
+
+.blackhead{
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:black;
+	text-align:center;
+	margin:20px;
+	margin-bottom:0px;
+}
+.skil{
+	word-spacing:1cm;
+	margin-top:10px;
+}
+.containor{
+	padding-left:30px;
+	display:flex;
+	justify-content:left;
+}
+.ima{
+	flex-basis:10%;
+	margin:10px;
+	margin-left:10px;
+}
+.Dhanush{
+	padding-left:10px;
+}
+.row1{
+	width:1000px;
+}
+.Hello{
+	color:#303030; 
+	margin:5px; 
+	font-size:20px;
+}
+.im{
+	font-size:30px; 
+	color:white; 
+	margin:0px;
+}
+.Dha{
+	border-bottom:0px;
+	font-size:32.5px;
+	padding-top:0px;
+	margin-bottom:0px;
+	margin-top:70px;
+}
+.download{
+	font-size:20px;
+	margin-top:0px;
+	padding:20px 100px;
+	
+}
+.chennai{
+	font-size:20px;
+	color:gray;
+	margin:5px;
+}
+.img2{
+	flex-basis:ima flex-row;
+	margin:0px 15px 15px 0px;
+	margin-left:10px;
+	display:inline;
+}
+.lorem{
+	flex-basis:80%;
+	display:inline;
+	border-left:0px;
+}
+.div1{
+	display:inline;
+}
+.containor2{
+	display:flex;
+	justify-content:left;
+	padding-left:20px;
+}
+.img2lorem{
+	font-size:16px;
+	display:inline;
+}
+.work{
+	word-spacing:3cm;
+	font-size:20px;
+	font-family:bold;
+	margin-left:150px;
+	margin-top:20px;
+	display:block;
+}
+.containor3{
+	padding-left:20px;
+}
+.link{
+	word-spacing:30px;
+	padding-top:1px;
+	margin-top:1px;
+}
+.skill{
+	font-size:40px;
+	padding-top:0px;
+}
+.row2{
+	width:1400px;
+}
+.images{
+	display:block;
+	margin-bottom:1px;
+	padding-bottom:1px;
+}
+.im{
+	padding:20px 20px 0px 20px;
+}
+.school{
+	border:5px;
+	font-size:30px;
+	display:inline;
+}
+.bds{
+	font-size:40px;
+	display:inline;
+	text-align:center;
+	padding:30px 20px;
+	color:black;
+	background-color:rgb(200,210,200);
+}
+#pro{
+	padding:0px 0px 0px 20px;
+}
+#con{
+	padding:0px 0px 0px 20px;
+}
